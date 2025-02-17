@@ -1,13 +1,13 @@
 # webRTC_peerTopeer
-Implementing peer to peer audio or video connection using webRTC UDP protocol.
+Implementing peer to peer audio or video connection using webRTC UDP protocol.<b/>
 
-backend code buils and run steps
-----------------------------------
-clone the project to local.
-cd > backen folser
-install websocke using belo command
--> npm install websocket
-run build
+backend code buils and run steps<b/>
+----------------------------------<b/>
+clone the project to local.<b/>
+cd > backen folser<b/>
+install websocke using belo command<b/>
+-> npm install websocket<b/>
+run build<b/>
 ->tsc -build
 execute the backend project
 ->node dist/index.js
