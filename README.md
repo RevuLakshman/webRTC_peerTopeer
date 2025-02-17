@@ -1,7 +1,7 @@
 # webRTC_peerTopeer
 Implementing peer to peer audio or video connection using webRTC UDP protocol.<b/>
 
-backend code buils and run steps<b/>
+## backend code buils and run steps<b/>
 ----------------------------------<b/>
 clone the project to local.<b/>
 cd > backen folser<b/>
@@ -17,7 +17,7 @@ if it gives connection successfull message, ready to go.
 
 =============================================================================================================================
 
-frontend code build and run steps
+## frontend code build and run steps
 ------------------------------------
 cd > frontend
 install node packages ti local system
